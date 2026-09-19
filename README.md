@@ -1,7 +1,7 @@
 # How does the community structure of dung beetles affect ecosystem functions? Modeling of secondary seed dispersal and seedling establishment.  
   
 ## Short Summary of the Study  
-["This repository contains the simulation code for Modeling of secondary seed dispersal “]  
+["This repository contains the simulation code for the Modeling of secondary seed dispersal by dung beetles and seedling establishment.“]  
   
 ## Code and Package Versions  
 * **Software/Language Version:** [e.g., ]  
